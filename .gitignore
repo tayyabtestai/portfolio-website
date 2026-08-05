@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+
+# build output
+dist
+*.tsbuildinfo
+
+# env & secrets
+.env
+.env.*
+*.local
+
+# tooling / editor (kept out of the website codebase)
+.claude
+.impeccable
+.vscode
+.idea
+.wrangler
+
+# os
+.DS_Store
+Thumbs.db
