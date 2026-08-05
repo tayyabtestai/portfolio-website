@@ -4,7 +4,7 @@
 
 <br /><br />
 
-**[🌐 Live Site](https://tayyab-ismail-portfolio.pages.dev) · [💼 LinkedIn](https://www.linkedin.com/in/tayyab-i-509718270) · [📝 Blog](https://tayyab-ismail-portfolio.pages.dev/blog) · [📅 Book a Call](https://calendly.com/tayyabismail/30min)**
+**[🌐 Live Site](https://tayyab-ismail-portfolio.pages.dev) · [💼 LinkedIn](https://www.linkedin.com/in/tayyab-i-509718270) · [🐙 GitHub](https://github.com/tayyabtestai) · [📝 Blog](https://tayyab-ismail-portfolio.pages.dev/blog) · [📅 Book a Call](https://calendly.com/tayyabismail/30min)**
 
 <br />
 
@@ -234,6 +234,7 @@ If you're a founder, solopreneur, or marketer who wants AI doing real work in yo
 
 ### [📅 Book a Free AI Strategy Call →](https://calendly.com/tayyabismail/30min)
 
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=b6ff00)](https://github.com/tayyabtestai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyab-i-509718270)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tayyabismail.ai)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14gmS5ft4Gd/?mibextid=wwXIfr)
